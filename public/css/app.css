@@ -1,0 +1,19 @@
+.backGreen{
+    background-color: rgb(66, 71, 69);
+    height: 100vh;
+    width: 100vw;
+    margin: 0 auto;
+    color: coral;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: olive;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
